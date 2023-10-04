@@ -1,0 +1,3 @@
+Data/*.joblib
+Notebooks/*draft.ipynb
+Models/models.pickle
